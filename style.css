@@ -1,0 +1,147 @@
+nav#navbar{ 
+    background-color: #02562C;
+    font-family: sans-serif;
+}
+section#Profil,
+section#Program,
+section#Artikel,
+section#Isi-artikel,
+section#Isi-program {
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 5rem;
+  }
+
+
+section#contact {
+    padding: 20px 0;
+}
+h1#Judul {
+    font-family: sans-serif;
+    text-align: center;
+    color: #033D20;
+}
+h4#Judul-konten{
+    font-family: sans-serif;
+    text-align: left;
+    color: #033D20;
+}
+p#isi-konten {   
+    font-family: sans-serif;
+    text-align: justify;
+    
+}
+
+div#profil.container { 
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.card {
+    font-family: sans-serif;
+    text-align: center;
+    align-content: center;
+}
+
+section#Program {
+    background-color:#F1F1F1;
+}
+
+section#contact {
+    background-color: #fd7e14;
+    font-family: sans-serif;
+}
+p#artikel { 
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align: left;
+}
+p#tanggal,
+p#catatan-kaki{  
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: left;
+}
+h6.card-title {
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 15px;
+}
+
+div#contact {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #02562C;
+}
+
+.footer {
+    background-color:#02562C;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 12px;
+}
+div#program-isi{
+    border-radius: 30px;
+}
+
+img#program{ 
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+h4#judul-isi-artikel,
+h4#judul-isi-program {
+    font-family: sans-serif;
+    text-align: left;
+    color: #033D20;
+}
+
+p#isi-artikel,
+p#isi-program {
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 15px;
+}
+
+#judul-artikel-isi {
+    font-family: sans-serif;
+    text-align:center;
+    padding: 10px;
+    color: #033D20;
+}
+
+#judul-artikel-terbaru {
+    padding: 2px;
+}
+#judul-artikel-terbaru.row {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 12px;
+}
+h6#judul-artikel-terbaru {
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: left;
+    color: #033D20;
+}
+
+h6#tanggal {
+    font-family: sans-serif;
+    font-size: 9px;
+    text-align: justify;
+    padding-left: 2px;
+    color: #033D20;
+}
+
+
+a.navigasi-artikel {
+    text-decoration: none;
+}
+
+h6#Sub-judul-artikel-2 {
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 19px;
+}
