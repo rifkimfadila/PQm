@@ -145,3 +145,11 @@ h6#Sub-judul-artikel-2 {
     text-align: left;
     font-size: 19px;
 }
+
+img#program {
+    transition: 2s;
+}
+
+img#program:hover{
+    transform: rotate(45);
+}
