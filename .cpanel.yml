@@ -1,0 +1,14 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1794763/public_html/
+    - /bin/cp Artikel-1.html $DEPLOYPATH
+    - /bin/cp Artikel-2.html $DEPLOYPATH
+    - /bin/cp Artikel-3.html $DEPLOYPATH
+    - /bin/cp Home-page.html $DEPLOYPATH
+    - /bin/cp Program-RQM.html $DEPLOYPATH
+    - /bin/cp Program-STQ-NON-MUKIM.html $DEPLOYPATH
+    - /bin/cp Program-Tahsin&Tahfidz.html $DEPLOYPATH
+    - /bin/cp Program-Wakaf-Qur'an.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
+    - /bin/cp -r img $DEPLOYPATH
