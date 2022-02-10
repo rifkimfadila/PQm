@@ -11,4 +11,4 @@ deployment:
     - /bin/cp Program-Tahsin&Tahfidz.html $DEPLOYPATH
     - /bin/cp Wakaf-Qur'an.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
-    - /bin/cp -r img $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
